@@ -1,7 +1,7 @@
 
 #BWC Environment Variables
 set ST2HOSTNAME="bwcvagrant"
-set ST2BOX='ubuntu/trusty64'
+set ST2BOX='ubuntu/xenial64'
 set ST2USER="st2admin"
 set ST2PASSWORD="Ch@ngeMe"
 set BWC_LICENSE=""
