@@ -21,7 +21,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     # Box Specifications
     bwc.vm.provider :virtualbox do |vb|
       vb.name = "#{hostname}"
-      vb.memory = 1028
+      vb.memory = 2048
       vb.cpus = 2
     end
 
