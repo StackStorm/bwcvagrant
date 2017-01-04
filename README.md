@@ -26,7 +26,7 @@ here](https://www.virtualbox.org/manual/ch01.html#intro-installing)).
 Clone the bwcvagrant repo, and start up Vagrant:
 
 ```bash
-git clone https://github.com/mrigeshpriyadarshi/bwcvagrant.git
+git clone https://github.com/StackStorm/bwcvagrant.git
 cd bwcvagrant
 ```
 
