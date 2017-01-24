@@ -1,5 +1,5 @@
 
-#BWC Environment Variables
+rem BWC Environment Variables
 set "ST2HOSTNAME=bwcvagrant"
 set "ST2BOX=ubuntu/trusty64"
 set "ST2USER=st2admin"
